@@ -11,6 +11,9 @@
 # Introduction
 •	This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
 •	The dataset can be accessed from this link: Road Accident Data (UK)
+# Dashboard
+![image](https://github.com/SahaniNilesh/Road-Accident-Analysis/blob/main/picture/road_accident.png?raw=true)
+
 # Dashboard Requirements
 •	Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
 •	Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
