@@ -1,7 +1,7 @@
 # Road-Accident-Analysis
 
 # Table of Contents
-•	Introduction
+•	Introduction ,
 •	Dashboard Requirements
 •	Installation / Usage
 •	DAX Formulas Used in Measures
